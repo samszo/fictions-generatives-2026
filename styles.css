@@ -1,0 +1,93 @@
+/* ============================================================
+   Fictions Génératives 2026 — Custom Styles
+   ============================================================ */
+
+/* ---- Hero Banner ----------------------------------------- */
+.hero-banner {
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+  color: #fff;
+  padding: 5rem 2rem;
+  margin: -1.5rem -1.5rem 2rem -1.5rem;
+  text-align: center;
+  border-radius: 0 0 1rem 1rem;
+}
+
+.hero-banner h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: #fff;
+}
+
+.hero-banner p {
+  font-size: 1.25rem;
+  opacity: 0.9;
+  margin-bottom: 2rem;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hero-banner .btn {
+  margin: 0.25rem;
+}
+
+/* ---- Cards ----------------------------------------------- */
+.card {
+  border: none;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  border-radius: 0.75rem;
+  overflow: hidden;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+}
+
+/* ---- Listing (projects grid) ----------------------------- */
+.quarto-listing-category-title {
+  font-weight: 600;
+}
+
+/* ---- Navbar tweaks --------------------------------------- */
+.navbar-brand {
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+
+/* ---- Footer ---------------------------------------------- */
+.nav-footer {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 1.5rem 0;
+  font-size: 0.875rem;
+  color: #6c757d;
+}
+
+/* ---- Blockquotes (poem excerpts) ------------------------- */
+blockquote {
+  border-left: 4px solid #0f3460;
+  padding-left: 1.5rem;
+  font-style: italic;
+  color: #555;
+  margin: 1.5rem 0;
+}
+
+/* ---- Dark mode adjustments ------------------------------- */
+[data-bs-theme="dark"] .card {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+}
+
+[data-bs-theme="dark"] .hero-banner {
+  background: linear-gradient(135deg, #0d0d1a 0%, #0a1020 50%, #072040 100%);
+}
+
+[data-bs-theme="dark"] blockquote {
+  color: #aaa;
+}
+
+[data-bs-theme="dark"] .nav-footer {
+  border-top-color: rgba(255, 255, 255, 0.1);
+  color: #aaa;
+}

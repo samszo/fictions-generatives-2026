@@ -1,0 +1,61 @@
+---
+title: "À propos"
+subtitle: "Le Master Artec et les fictions génératives"
+---
+
+## Le Master Artec
+
+Le **Master Arts, Technologies, Créations numériques (Artec)** de l'[Université Paris 8 Vincennes-Saint-Denis](https://www.univ-paris8.fr) est une formation de recherche-création qui forme des artistes, chercheur·euse·s et professionnel·le·s du numérique.
+
+La formation articule :
+
+- **Pratique artistique** : ateliers de création, prototypage, expérimentation
+- **Recherche théorique** : séminaires, lectures critiques, mémoire de recherche
+- **Dimension technique** : programmation, design d'interaction, outils numériques
+
+### Objectifs pédagogiques
+
+Le master vise à former des professionnel·le·s capables de :
+
+1. Concevoir et réaliser des œuvres numériques ambitieuses
+2. Articuler pratique et réflexion théorique
+3. Maîtriser les outils numériques contemporains
+4. S'inscrire dans les débats actuels de l'art numérique
+
+---
+
+## Les fictions génératives
+
+Les **fictions génératives** constituent l'un des axes de recherche-création du Master Artec. Elles regroupent toutes les formes narratives et poétiques dont la production fait intervenir des processus algorithmiques :
+
+- Textes générés par des modèles de langage (LLM)
+- Narrations procédurales et systèmes de règles
+- Hyperrécits et littérature combinatoire
+- Performances interactives co-créées avec le public
+- Installations numériques narratives
+
+### Contexte intellectuel
+
+Ces pratiques s'inscrivent dans une longue histoire littéraire qui inclut l'OuLiPo, la poésie concrète, la littérature combinatoire (Queneau, Calvino, Perec) et, plus récemment, les explorations des communautés d'artistes travaillant avec l'IA.
+
+Elles posent des questions fondamentales :
+
+- Qu'est-ce que l'auteur·ice à l'ère de l'IA ?
+- Comment évaluer la qualité d'un texte dont l'origine est incertaine ?
+- Quelles nouvelles formes narratives les outils génératifs rendent-ils possibles ?
+
+---
+
+## L'équipe pédagogique
+
+Ce site présente les projets réalisés dans le cadre du cours **Fictions Génératives** du Master Artec, coordonné par l'équipe enseignante du département Arts et Technologies de l'Image (ATI).
+
+---
+
+## Contact
+
+Pour toute information sur les projets présentés ou sur le Master Artec :
+
+- 🌐 [Site de l'Université Paris 8](https://www.univ-paris8.fr)
+- 📧 [Contact du département](mailto:artec@univ-paris8.fr)
+- 🐙 [Dépôt GitHub du cours](https://github.com/samszo/fictions-generatives-2026)

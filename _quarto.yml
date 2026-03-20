@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Fictions Génératives 2026"
+  description: "Projets de fictions génératives réalisés dans le cadre du Master Artec"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Accueil
+      - href: projets.qmd
+        text: Projets
+      - href: a-propos.qmd
+        text: À propos
+    right:
+      - icon: github
+        href: https://github.com/samszo/fictions-generatives-2026
+        aria-label: GitHub
+  page-footer:
+    left: "Fictions Génératives 2026 — Master Artec, Université Paris 8"
+    right:
+      - icon: github
+        href: https://github.com/samszo/fictions-generatives-2026
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+    toc-depth: 2
+    smooth-scroll: true
+    link-external-icon: true
+    link-external-newwindow: true

@@ -1,0 +1,33 @@
+---
+title: "Échos du Vide"
+description: "Une exploration poétique de la mémoire fragmentée générée par un modèle de langage entraîné sur des textes d'amnésiques."
+author: "Alice Moreau"
+date: "2026-03-15"
+categories: [texte génératif, LLM, poésie]
+image: ../images/projet-placeholder.svg
+---
+
+## Présentation du projet
+
+**Échos du Vide** est une œuvre de poésie computationnelle qui explore la fragmentation de la mémoire à travers des textes générés par un modèle de langage fine-tuné sur des témoignages d'amnésiques et des archives médicales anonymisées.
+
+Chaque session de lecture produit un poème unique, où des bribes de souvenirs s'assemblent et se désassemblent, mimant les processus mnésiques perturbés.
+
+## Démarche artistique
+
+Le projet interroge la frontière entre mémoire authentique et mémoire construite. En utilisant l'IA générative comme métaphore de la défaillance mnésique, Alice Moreau pose la question : *peut-on faire confiance à un texte dont on ne connaît pas l'origine ?*
+
+## Dispositif technique
+
+- **Modèle** : GPT-2 fine-tuné sur corpus personnalisé
+- **Interface** : application web en JavaScript vanilla
+- **Hébergement** : GitHub Pages
+
+## Extrait
+
+> *Les mots reviennent comme des feuilles mortes portées par le vent.  
+> Je cherche ton visage dans le bruit blanc de mes pensées —  
+> et je trouve seulement l'écho de ce que j'ai peut-être aimé.*
+
+[Accéder à l'œuvre](https://example.com){.btn .btn-primary}
+[Code source](https://github.com){.btn .btn-outline-secondary}

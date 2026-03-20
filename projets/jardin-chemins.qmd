@@ -1,0 +1,31 @@
+---
+title: "Le Jardin des Chemins qui Bifurquent"
+description: "Un hyperrécit génératif infini inspiré de Borges, où chaque choix du lecteur déclenche une nouvelle branche narrative créée à la volée par un LLM."
+author: "Théo Dupont"
+date: "2026-03-10"
+categories: [hyperrécit, interactivité, LLM]
+image: ../images/projet-placeholder.svg
+---
+
+## Présentation du projet
+
+**Le Jardin des Chemins qui Bifurquent** est un hyperrécit génératif qui rend hommage à Jorge Luis Borges tout en le réinventant avec les outils de l'IA contemporaine.
+
+À chaque carrefour narratif, le lecteur choisit une direction. Le système génère alors une nouvelle branche de l'histoire, cohérente avec les choix précédents mais imprévisible dans ses développements.
+
+## Démarche artistique
+
+Ce projet explore la notion d'auteur multiple et de texte vivant. Le récit n'existe pas avant d'être lu — il se crée dans l'acte même de la lecture. Chaque parcours est unique et irrépétable.
+
+## Dispositif technique
+
+- **Modèle** : API OpenAI GPT-4 avec prompts contextualisés
+- **Interface** : application React avec persistance de l'historique narratif
+- **Mémoire narrative** : système de résumé automatique pour maintenir la cohérence
+
+## Extrait
+
+> *Vous arrivez à la croisée de deux chemins. À gauche, une forêt sombre dont les arbres semblent murmurer des noms oubliés. À droite, une plaine lumineuse où danse une silhouette que vous croyez reconnaître...*
+
+[Accéder à l'œuvre](https://example.com){.btn .btn-primary}
+[Code source](https://github.com){.btn .btn-outline-secondary}
