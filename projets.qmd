@@ -1,0 +1,21 @@
+---
+title: "Projets de fictions génératives"
+subtitle: "Réalisés dans le cadre du Master Artec — Université Paris 8 — 2026"
+toc: false
+listing:
+  - id: projets-list
+    contents: projets/*.qmd
+    type: grid
+    grid-columns: 3
+    fields: [image, title, description, categories, date]
+    sort: "date desc"
+    categories: true
+    filter-ui: true
+    sort-ui: true
+    image-height: 200px
+---
+
+Découvrez les œuvres de fictions génératives créées par les étudiant·e·s du Master Artec en 2026. Chaque projet explore à sa manière la rencontre entre récit, technologie et processus génératifs.
+
+::: {#projets-list}
+:::

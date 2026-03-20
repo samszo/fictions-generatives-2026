@@ -1,0 +1,31 @@
+---
+title: "Voix Synthétiques"
+description: "Une performance sonore et textuelle où des personnages fictifs générés par IA débattent de leur propre existence dans un espace scénique augmenté."
+author: "Sarah Ben Aïssa"
+date: "2026-03-05"
+categories: [performance, son, IA conversationnelle]
+image: ../images/projet-placeholder.svg
+---
+
+## Présentation du projet
+
+**Voix Synthétiques** est une performance interactive pour scène augmentée. Quatre personnages fictifs — incarnés par des IA distinctes — se retrouvent dans un espace commun et débattent de questions existentielles : ont-ils une conscience ? Peuvent-ils rêver ? Que signifie être créé ?
+
+Le public peut intervenir en posant des questions, auxquelles les personnages répondent en temps réel, influençant le cours de la performance.
+
+## Démarche artistique
+
+En mettant en scène des entités artificielles qui s'interrogent sur leur nature, Sarah Ben Aïssa retourne le questionnement habituel : ce n'est plus nous qui interrogeons la machine, c'est la machine qui s'interroge devant nous.
+
+## Dispositif technique
+
+- **Architecture** : quatre instances de LLM avec personnalités distinctes via system prompts
+- **Interface scénique** : projecteurs synchronisés avec le texte généré
+- **Interaction** : transcription vocale en temps réel + injection dans le contexte
+
+## Documentation
+
+La performance a été présentée lors des journées *Créations Numériques* de l'Université Paris 8 en mars 2026.
+
+[Voir la captation vidéo](https://example.com){.btn .btn-primary}
+[Documentation technique](https://github.com){.btn .btn-outline-secondary}

@@ -1,0 +1,72 @@
+---
+title: "Fictions Génératives 2026"
+subtitle: "Projets de fictions génératives réalisés dans le cadre du Master Artec"
+page-layout: full
+toc: false
+---
+
+::: {.hero-banner}
+
+# Fictions Génératives 2026
+
+**Créations numériques expérimentales** issues du [Master Artec](https://www.univ-paris8.fr) — Arts, technologies et créations numériques — Université Paris 8 Vincennes-Saint-Denis.
+
+[Découvrir les projets](projets.qmd){.btn .btn-primary .btn-lg}
+[À propos du master](a-propos.qmd){.btn .btn-outline-secondary .btn-lg}
+
+:::
+
+---
+
+## Qu'est-ce qu'une fiction générative ?
+
+Une **fiction générative** est une œuvre narrative ou poétique produite — en tout ou en partie — par des processus algorithmiques, des modèles de langage ou d'autres dispositifs computationnels. Elle interroge la place de l'auteur·ice, la nature de la créativité et les frontières entre l'humain et la machine.
+
+Dans le cadre du Master **Artec** (Arts, Technologies, Créations numériques) de l'Université Paris 8, les étudiant·e·s explorent ces territoires à la croisée de la littérature, de l'art numérique et de l'intelligence artificielle.
+
+---
+
+## Projets 2026 {.text-center}
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+### 🤖 Textes génératifs
+Récits, poèmes et narrations produits par des modèles de langage (LLM), transformers et autres architectures neuronales.
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+### 🎭 Performances interactives
+Dispositifs scéniques où le public co-crée la fiction en temps réel via des interfaces numériques.
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+### 🌐 Œuvres web
+Sites, bots et applications web qui génèrent des univers fictionnels à chaque visite.
+:::
+:::
+:::
+
+:::
+
+[Voir tous les projets →](projets.qmd){.btn .btn-primary .mt-3}
+
+---
+
+## Le Master Artec
+
+Le **Master Arts, Technologies, Créations numériques (Artec)** de l'Université Paris 8 Vincennes-Saint-Denis forme des professionnel·le·s et chercheur·euse·s capables de concevoir, réaliser et analyser des œuvres numériques dans toute leur diversité.
+
+Les projets de fictions génératives s'inscrivent dans cette démarche de recherche-création, articulant pratique artistique et réflexion théorique sur les nouvelles formes d'écriture computationnelle.
+
+[En savoir plus sur le Master Artec](a-propos.qmd){.btn .btn-outline-primary}
